@@ -1,0 +1,17 @@
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\bin\Debug\EF01CodeFirst.exe.config
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\bin\Debug\EF01CodeFirst.exe
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\bin\Debug\EF01CodeFirst.pdb
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.csproj.CopyComplete
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.exe
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.pdb
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.createInitialCatalog.resources
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.ChangesInFieldsCursosTable.resources
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.PopulateCursosTable.resources
