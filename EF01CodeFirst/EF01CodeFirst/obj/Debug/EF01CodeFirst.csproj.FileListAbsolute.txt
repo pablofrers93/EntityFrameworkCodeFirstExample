@@ -15,3 +15,12 @@ C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF0
 C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.csproj.GenerateResource.cache
 C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.ChangesInFieldsCursosTable.resources
 C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.PopulateCursosTable.resources
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.AddCostoFieldInCursosTable.resources
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.ChangeCostoNameWithPrecioFinalInCursosTable.resources
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.AddLugaresDisponiblesFieldInCursosTable.resources
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.ChangeTypeAndNameInLugaresDisponiblesFieldInTableCursos.resources
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.AddVigenteFieldInTableCursos.resources
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.CreateCategoriasTable.resources
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.CreateCategoriasTable1.resources
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.CreateIndexInCursosTable.resources
+C:\Users\Pablo\Desktop\Programacion\ÉntityFramework-CodeFirst\EF01CodeFirst\EF01CodeFirst\obj\Debug\EF01CodeFirst.Migrations.CreateRelationshioBetweenTables.resources

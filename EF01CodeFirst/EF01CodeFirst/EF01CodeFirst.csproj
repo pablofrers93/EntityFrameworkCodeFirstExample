@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Datos\CursosDbContext.cs" />
+    <Compile Include="Entidades\Categoria.cs" />
     <Compile Include="Entidades\Curso.cs" />
     <Compile Include="Migrations\202304021753378_createInitialCatalog.cs" />
     <Compile Include="Migrations\202304021753378_createInitialCatalog.designer.cs">
@@ -66,6 +67,42 @@
     <Compile Include="Migrations\202304021806585_PopulateCursosTable.cs" />
     <Compile Include="Migrations\202304021806585_PopulateCursosTable.designer.cs">
       <DependentUpon>202304021806585_PopulateCursosTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202304032156207_AddCostoFieldInCursosTable.cs" />
+    <Compile Include="Migrations\202304032156207_AddCostoFieldInCursosTable.designer.cs">
+      <DependentUpon>202304032156207_AddCostoFieldInCursosTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202304032159462_ChangeCostoNameWithPrecioFinalInCursosTable.cs" />
+    <Compile Include="Migrations\202304032159462_ChangeCostoNameWithPrecioFinalInCursosTable.designer.cs">
+      <DependentUpon>202304032159462_ChangeCostoNameWithPrecioFinalInCursosTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202304032202576_AddLugaresDisponiblesFieldInCursosTable.cs" />
+    <Compile Include="Migrations\202304032202576_AddLugaresDisponiblesFieldInCursosTable.designer.cs">
+      <DependentUpon>202304032202576_AddLugaresDisponiblesFieldInCursosTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202304032205284_ChangeTypeAndNameInLugaresDisponiblesFieldInTableCursos.cs" />
+    <Compile Include="Migrations\202304032205284_ChangeTypeAndNameInLugaresDisponiblesFieldInTableCursos.designer.cs">
+      <DependentUpon>202304032205284_ChangeTypeAndNameInLugaresDisponiblesFieldInTableCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202304032208220_AddVigenteFieldInTableCursos.cs" />
+    <Compile Include="Migrations\202304032208220_AddVigenteFieldInTableCursos.designer.cs">
+      <DependentUpon>202304032208220_AddVigenteFieldInTableCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202304032215454_CreateCategoriasTable.cs" />
+    <Compile Include="Migrations\202304032215454_CreateCategoriasTable.designer.cs">
+      <DependentUpon>202304032215454_CreateCategoriasTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202304032217210_CreateCategoriasTable1.cs" />
+    <Compile Include="Migrations\202304032217210_CreateCategoriasTable1.designer.cs">
+      <DependentUpon>202304032217210_CreateCategoriasTable1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202304032221516_CreateIndexInCursosTable.cs" />
+    <Compile Include="Migrations\202304032221516_CreateIndexInCursosTable.designer.cs">
+      <DependentUpon>202304032221516_CreateIndexInCursosTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202304032226591_CreateRelationshioBetweenTables.cs" />
+    <Compile Include="Migrations\202304032226591_CreateRelationshioBetweenTables.designer.cs">
+      <DependentUpon>202304032226591_CreateRelationshioBetweenTables.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
@@ -84,6 +121,33 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202304021806585_PopulateCursosTable.resx">
       <DependentUpon>202304021806585_PopulateCursosTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202304032156207_AddCostoFieldInCursosTable.resx">
+      <DependentUpon>202304032156207_AddCostoFieldInCursosTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202304032159462_ChangeCostoNameWithPrecioFinalInCursosTable.resx">
+      <DependentUpon>202304032159462_ChangeCostoNameWithPrecioFinalInCursosTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202304032202576_AddLugaresDisponiblesFieldInCursosTable.resx">
+      <DependentUpon>202304032202576_AddLugaresDisponiblesFieldInCursosTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202304032205284_ChangeTypeAndNameInLugaresDisponiblesFieldInTableCursos.resx">
+      <DependentUpon>202304032205284_ChangeTypeAndNameInLugaresDisponiblesFieldInTableCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202304032208220_AddVigenteFieldInTableCursos.resx">
+      <DependentUpon>202304032208220_AddVigenteFieldInTableCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202304032215454_CreateCategoriasTable.resx">
+      <DependentUpon>202304032215454_CreateCategoriasTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202304032217210_CreateCategoriasTable1.resx">
+      <DependentUpon>202304032217210_CreateCategoriasTable1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202304032221516_CreateIndexInCursosTable.resx">
+      <DependentUpon>202304032221516_CreateIndexInCursosTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202304032226591_CreateRelationshioBetweenTables.resx">
+      <DependentUpon>202304032226591_CreateRelationshioBetweenTables.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

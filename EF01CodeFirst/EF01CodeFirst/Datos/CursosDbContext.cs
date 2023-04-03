@@ -15,5 +15,7 @@ namespace EF01CodeFirst.Datos
 
         }
         public DbSet<Curso> Cursos {get; set;}
+        public DbSet<Categoria> Categorias { get; set; }
+
     }
 }

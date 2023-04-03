@@ -14,10 +14,18 @@ namespace EF01CodeFirst.Entidades
         public int CursoId { get; set; }
         [Required]
         [StringLength(50)]
+        [Index("IX_Cursos_NombreCurso", IsUnique=true)]
+
         public string NombreCurso { get; set; }
         [StringLength(200)]
         public string Descripcion { get; set; }
-        
-        public decimal Costo{ get; set; }
+
+
+        public decimal PrecioFinal { get; set; }
+        public byte Vacantes { get; set; }
+        public bool Vigente { get; set; }
+
+        public int CategoriaId { get; set; }
+        public virtual Categoria Categoria { get; set; }
     }
 }
