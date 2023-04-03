@@ -17,5 +17,7 @@ namespace EF01CodeFirst.Entidades
         public string NombreCurso { get; set; }
         [StringLength(200)]
         public string Descripcion { get; set; }
+        
+        public decimal Costo{ get; set; }
     }
 }
